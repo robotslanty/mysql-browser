@@ -1,0 +1,20 @@
+{
+  "name": "mysql-browser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "electron",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ace-builds": "^1.4.2",
+    "handsontable": "^6.2.2",
+    "mariadb": "^2.0.2-rc"
+  },
+  "devDependencies": {
+    "electron": "^3.0.13"
+  }
+}
